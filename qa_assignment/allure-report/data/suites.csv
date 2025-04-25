@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","12623","Validate book details","chromium","Fri Apr 25 11:20:40 IST 2025","passed","Fri Apr 25 11:20:53 IST 2025","","ui_assignment.spec.js","",""
+"","967","create, fetch and update user","firefox","Fri Apr 25 11:20:40 IST 2025","passed","Fri Apr 25 11:20:41 IST 2025","","api_assignment.spec.js","",""
+"","949","create, fetch and update user","webkit","Fri Apr 25 11:20:42 IST 2025","passed","Fri Apr 25 11:20:43 IST 2025","","api_assignment.spec.js","",""
+"","967","create, fetch and update user","chromium","Fri Apr 25 11:20:40 IST 2025","passed","Fri Apr 25 11:20:41 IST 2025","","api_assignment.spec.js","",""
+"","8768","Validate book details","firefox","Fri Apr 25 11:20:40 IST 2025","passed","Fri Apr 25 11:20:49 IST 2025","","ui_assignment.spec.js","",""
+"","18525","Validate book details","webkit","Fri Apr 25 11:20:42 IST 2025","passed","Fri Apr 25 11:21:00 IST 2025","","ui_assignment.spec.js","",""
